@@ -5,8 +5,8 @@ name:
   display: Sanjay Saha
   given: Sanjay
   family: Saha
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
   - PhD
