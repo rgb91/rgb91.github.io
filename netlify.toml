@@ -14,7 +14,8 @@
     hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
     
     echo "=== Running Pagefind indexing ==="
-    pnpm run pagefind -- --verbose
+    echo "old command: pnpm run pagefind -- --verbose"
+    pnpm run pagefind
     
     echo "=== Build completed successfully ==="
   """
