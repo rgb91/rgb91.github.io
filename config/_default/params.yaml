@@ -19,7 +19,7 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "AI Researcher"
     # Site meta description for search engines and social sharing
     description: "Sanjay Saha's personal website. Working on Multimodal Content Understanding and Computer Vision problems. Got his PhD from the Department of Computer Science, National University of Singapore."
     # Social accounts (used for meta tags like Twitter Cards)
@@ -129,7 +129,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Sanjay Saha"
     # For local_business identity type only
     location:
       address:
@@ -137,7 +137,7 @@ hugoblox:
         city: ""
         region: ""
         postal_code: ""
-        country: ""
+        country: "Singapore"
       coordinates:
         latitude: null
         longitude: null
@@ -147,8 +147,8 @@ hugoblox:
       allow:
         - /
       disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+      note: "AI ML Researcher from Singapore."
+      contact: "Sanjay Saha"
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
@@ -173,7 +173,7 @@ hugoblox:
   # Site search
   # ────────────────────────────────────────────────────────────────────────────
   search:
-    enable: true
+    enable: false
     # Trending/suggested search terms
     suggestions: []
     # Quick action shortcuts in search modal
