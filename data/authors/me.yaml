@@ -23,8 +23,8 @@ bio: |
   analysis of Deepfakes.
 
 affiliations:
-  - name: TikTok
-    url: https://tiktok.com
+  - name: Augmented Human Lab (NUS)
+    url: https://ahlab.org/
 
 links:
   - icon: at-symbol
@@ -40,7 +40,7 @@ links:
     url: https://orcid.org/0009-0003-5386-0768
 
 interests:
-  - Multimodal Content Understanding
+  - Multimodal Video Understanding
   - Computer Vision
   - Large Language Models
   - Digital Face Synthesis
